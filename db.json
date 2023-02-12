@@ -1,0 +1,26 @@
+[{
+    "UserName": "1234",
+    "password": "1234",
+    "name": "Hari Shankar",
+    "accNum": "1234",
+    "mobile": "9045635987"
+  
+  },
+  
+  {
+    "UserName": "5678",
+    "password": "5678",
+    "name": "jay shiv",
+    "accNum": "5678",
+    "mobile": "7654987356"
+  
+  },
+  
+  {
+    "UserName": "4321",
+    "password": "4321",
+    "name":"Moncy Cherian",
+    "accNum": "4321",
+    "mobile": "8976234513"
+  
+  }]
